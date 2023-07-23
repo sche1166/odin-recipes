@@ -1,0 +1,37 @@
+body{
+    background-color: gray;
+}
+
+div{
+    text-align: center;
+}
+
+#header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    text-align: center;
+}
+
+.center {
+    border: solid;
+}
+
+
+.color{
+    color: black
+}
+
+ul{
+    list-style-type: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#top{
+    color: black;
+    text-transform: uppercase;
+}
+
